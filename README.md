@@ -81,7 +81,7 @@ After training the hierarchical expanding-window model at each level, we compute
 The file GO_2025_IMDC_hybrid_CNN_LSTM_Cases_and_Climate_Data_Driven_Forecasting_Final_Submission.ipynb contains the code used in this study and is located within the model folders. Moreover, the desired epidemiological weekly case data and climate data within the model folder are organized by state name (GO) for easy selection and use in the forecasting process.
 
 ## Reproducibility
-To reproduce the results, use the code provided in the model folder. Then, select the state name (GO) corresponding to the desired epidemiological weekly case data and climate data. All the files and information to run the developed models are provided in this repository (https://github.com/haridas-das/DS_OKSTATE_2025).
+To reproduce the results, use the code provided in the model folder. Then, select the state name (GO) corresponding to the desired epidemiological weekly case data and climate data. All the files and information to run the developed models are provided in this repository (https://github.com/haridas-das/DS-OKSTATE-2026).
 
 ## How to Cite This Repository
 If you wish to cite this repository in a document, please use the following reference:
