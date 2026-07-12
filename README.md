@@ -3,7 +3,7 @@
   <img src="img/sprint.jpeg" alt="Sprint Planning" width="400" height="400">
 </p>
 
-## Team: DS-OKSTATE
+## Team: DS-OKSTATE-2026
 DS-OKSTATE-2026 conducts research aimed at understanding and mitigating Dengue Virus (DENV) epidemics in Brazil.
 
 # Participants:
