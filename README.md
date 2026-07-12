@@ -88,9 +88,9 @@ If you wish to cite this repository in a document, please use the following refe
 
 @misc{D-FENSE-GitHub,
    author       = Das H.K. and  Stolerman L. M.,
-   title        = {{DS_OKSTATE_2025}: {D}engue {F}orecasting in {B}razil},
+   title        = {{DS-OKSTATE-2026}: {D}engue {F}orecasting in {B}razil},
    year         = {2025},
    publisher    = {GitHub},
    journal      = {GitHub repository},
-   howpublished = {https://github.com/haridas-das/DS_OKSTATE_2025},
+   howpublished = {https://github.com/haridas-das/DS-OKSTATE-2026},
 }
